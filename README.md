@@ -65,6 +65,18 @@ Replace `button` with the component name you want.
 
 ## 📂 Project Structurerc/
 
+```
+src/
+  assets/        # Static assets
+  components/    # Reusable UI components
+  lib/           # Utilities & helpers
+  pages/         # Page-level components
+  styles/        # Global styles
+  main.tsx       # App entry point
+  App.tsx        # Root component
+
+```
+
 ## ✅ Lint & Format
 
 Check for lint issues:
